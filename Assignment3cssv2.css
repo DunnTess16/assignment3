@@ -1,0 +1,9 @@
+body {
+    background-image: url("studyA3.png");
+}
+
+.butterfly{
+position: absolute;
+left:685px;
+top: 150px;
+}

@@ -1,0 +1,272 @@
+body {
+    background-image: url("roomA3.png");
+position: absolute;
+background-color: black;
+     background-repeat: no-repeat;
+      background-size: 1400px 950px;
+   
+/*    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+  /*background-attachment: fixed;*/
+}
+
+
+
+.butterflyred{
+position: absolute;
+left:600px;
+top: 300px;
+height: 90vh;
+}
+
+.butterfly{
+position: absolute;
+left:601px;
+top: 301px;
+}
+
+.eyeblood{
+position: absolute;
+left:938px;
+top: 500px;
+opacity: 0.1;
+}
+
+
+.man{
+position: absolute;
+left:750px;
+top: 470px;
+}
+
+.dagger{
+position: absolute;
+left:807px;
+top: 648px;
+}
+
+.bloodrop{
+position: absolute;
+left:830px;
+top: 728px;
+opacity: 0.1;
+}
+
+.girl{
+position: absolute;
+left:468px;
+top: 321px;
+}
+
+
+.glass{
+position: absolute;
+left:658px;
+top: 553px;
+}
+
+.bloodspill1{
+position: absolute;
+left:1050px;
+top: 823px;
+}
+
+.book{
+position: absolute;
+left:1100px;
+top: 820px;
+}
+
+.movinggirl{
+position: absolute;
+left:-500px;
+top: 400px;
+}
+
+.hand{
+position: absolute;
+left:100px;
+top: 400px;
+opacity: 0.1;
+}
+
+.hand2{
+position: absolute;
+left:150px;
+top: 330px;
+opacity: 0.1;
+}
+
+.hand3{
+position: absolute;
+left:1000px;
+top: 330px;
+opacity: 0.1;
+}
+
+
+.spider{
+position: absolute;
+left:200px;
+top: 150px;
+}
+
+.cobweb1{
+position: absolute;
+left:600px;
+top: 125px;
+}
+
+.cobweb2{
+position: absolute;
+left:187px;
+top: -50px;
+}
+
+.cobweb3{
+position: absolute;
+left:30px;
+top: 200px;
+}
+.cobweb4{
+position: absolute;
+left:1120px;
+top: 55px;
+}
+
+.rat{
+position: absolute;
+left:1100px;
+top: 820px;
+}
+
+.girlhead{
+	position: absolute;
+left:247px;
+top: 636px;
+opacity: 0.1;
+}
+
+.skull2{
+	position: absolute;
+left:285px;
+top: 635px;
+}
+
+.spider2{
+	position: absolute;
+left:625px;
+top: 125px;
+opacity: 0.1;
+}
+
+
+.glove{
+	position: absolute;
+left:1125px;
+top: 860px;
+opacity: 0.1;
+}
+
+.foot1{
+	position: absolute;
+left:970px;
+top: 828px;
+opacity: 0.1;
+}
+
+.foot2{
+	position: absolute;
+left:1040px;
+top: 885px;
+opacity: 0.1;
+}
+
+.foot3{
+	position: absolute;
+left:1100px;
+top: 805px;
+opacity: 0.1;
+}
+
+.foot4{
+	position: absolute;
+left:1220px;
+top: 835px;
+opacity: 0.1;
+}
+
+.cross{
+position: absolute;
+left:300px;
+top: 250px;
+}
+
+
+.anticross{
+position: absolute;
+left:300px;
+top: 270px;
+opacity: 0;
+}
+
+.musicbox{
+	position: absolute;
+left:420px;
+top: 795px;
+}
+
+
+.sixsixsix{
+	position: absolute;
+left:-10px;
+top: 350px;
+opacity: 0.1;
+}
+
+.inkwell{
+position: absolute;
+left:100px;
+top: 590px;
+}
+
+.inkspill{
+position: absolute;
+left:125px;
+top: 609px;
+opacity: 0.1;
+}
+
+.hand5{
+position: absolute;
+left:601px;
+top: 472px;
+opacity: 0.1;
+}
+
+
+.helpme{
+position: absolute;
+left:870px;
+top: 150px;
+opacity: 0.1;
+}
+
+.bloodspill2{
+position: absolute;
+left:650px;
+top: 893px;
+opacity: 0.1;
+}
+
+
+
+
+
+
+
+
+
+
